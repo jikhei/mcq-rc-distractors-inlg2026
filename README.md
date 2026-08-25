@@ -1,6 +1,6 @@
 # MCQ Reading Comprehension Distractors (INLG 2026)
 
-This repository contains code and data associated with the paper **"Distractors for Multiple-choice Questions for Reading Comprehension"**.
+This repository contains code and data associated with the paper **"Distractors for Multiple-choice Questions for Reading Comprehension: Automatic Generation and Evaluation"**.
 
 OpenReview: <https://openreview.net/forum?id=jd2rOhC2A0>
 
