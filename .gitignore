@@ -1,0 +1,35 @@
+.DS_Store
+**/.DS_Store
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Python and notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Logs and runtime outputs
+*.log
+*.err
+slurm-*.out
+sft-b-log/
+output/
+outputs/
+tmp/
+temp/
+
+# Large generated artifacts
+*.sif
+*.simg
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.gguf
+checkpoint*/
+checkpoints/
+models/
